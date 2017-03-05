@@ -1,3 +1,11 @@
+# NOTE
+
+Original credit goes to [CGenie](https://github.com/CGenie/alfred-pass). This fork only has modifications to my liking, includes:
+
+1. Transient copy of password, so that clipboard managers do not store the passwords
+
+2. Notification after the password is copied
+
 # Alfred 2 integration with Pass
 
 [Packal page](http://www.packal.org/workflow/pass-0)
